@@ -1,0 +1,8 @@
+font-face{
+	font-family:"fontName";
+	src:url("fontName.eot"),
+	src:url("fontName.eot?#icfix")format("embedded-opentype"),
+	url("fontName.woff")format("woff"),
+	url("fontName.ttf")format("truetype"),
+	url("fontName.svg#svgFontName")format("svg");
+	}

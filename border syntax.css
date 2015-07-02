@@ -1,0 +1,6 @@
+<boder-style>/<boder-width>/<border-color>
+p{
+	padding:20px;
+	border:1px,solid black;
+	width:20px
+}
